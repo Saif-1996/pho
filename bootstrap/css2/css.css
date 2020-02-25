@@ -1,0 +1,25 @@
+.navbar-inner{ 
+
+background-image: none;
+	background-color: #ccc
+}
+.navbar .brand{color: #757272;
+margin-left: 30px; }
+
+.navbar .nav > li > a {color: white;
+margin-left: 15px;}
+body{background-color: #373737;}
+.im img{height: 400px;
+	  box-shadow: 0px 6px 5px #211F1F ;
+width: 100%}
+ h3{    background-color: #303030;
+ 	color: white;
+ 	padding: 15px;
+}
+p{color: white}
+
+#m{margin-top: 80px}
+footer{
+    clear: both;
+    text-align: center;
+}
